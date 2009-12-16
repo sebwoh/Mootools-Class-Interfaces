@@ -1,0 +1,7 @@
+name: Interfaces
+author: sebwoh
+category: Native
+tags: [zen coding, html generator]
+requires: core:1.2.4: '*'
+#docs: http://wiki.github.com/sebwoh/Mootools-Expand-Abbreviation
+#current: 0.2
