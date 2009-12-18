@@ -1,7 +1,7 @@
 name: Interfaces
 author: sebwoh
 category: Native
-tags: [zen coding, html generator]
+tags: [interfaces, oop, interface, class, classes]
 requires: core:1.2.4: '*'
-#docs: http://wiki.github.com/sebwoh/Mootools-Expand-Abbreviation
-#current: 0.2
+#docs: http://wiki.github.com/sebwoh/Mootools-Class-Interfaces
+#current: 0.1.1
